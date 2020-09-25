@@ -1,0 +1,9 @@
+.posts__item {
+    color: greenyellow;
+}
+
+.posts__item img {
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 30px;
+}
